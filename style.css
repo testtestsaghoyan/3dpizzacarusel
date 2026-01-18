@@ -28,8 +28,8 @@ justify-items: stretch;
 animation: slide 15s linear infinite;
 }
 .wrap img{
-    width: 200px;
-    height: 200px;
+    width: 210px;
+    height: 210px;
     border-radius: 10px;
     object-fit: cover;
     
